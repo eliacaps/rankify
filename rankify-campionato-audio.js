@@ -253,10 +253,9 @@ function _campPlaylistLoadTrack(orderIdx, autoplay = true) {
     // Reset completo prima di impostare la nuova immagine
     thumbEl.style.backgroundImage = 'none';
     thumbEl.textContent = '';
-    if (entry.imgPath) {
-      // Escape del path per url() CSS: spazi e caratteri speciali nei nomi file
-      const escaped = entry.imgPath.replace(/[()'"\\]/g, '\\$&').replace(/ /g, '%20');
-      thumbEl.style.backgroundImage = `url(${escaped})`;
+    const _imgUrl = (typeof imgSrc === 'function') ? imgSrc(entry) : entry.imgPath;
+    if (_imgUrl) {
+      thumbEl.style.backgroundImage = `url(${_imgUrl})`;
     } else {
       thumbEl.textContent = '🎵';
     }
@@ -272,9 +271,10 @@ function _campPlaylistLoadTrack(orderIdx, autoplay = true) {
   const btnPlay = document.getElementById('cplPlayBtn');
   if (btnPlay) btnPlay.textContent = '▶';
 
-  if (!entry.audioPath) { _campHighlightCurrentRow(); return; }
+  const _audioUrl = (typeof audioSrc === "function") ? audioSrc(entry) : entry.audioPath;
+  if (!_audioUrl) { _campHighlightCurrentRow(); return; }
 
-  const audio = new Audio(entry.audioPath);
+  const audio = new Audio(_audioUrl);
   audio.volume = 1.0;
   pl._audio = audio;
 
