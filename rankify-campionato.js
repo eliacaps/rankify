@@ -636,9 +636,9 @@ function _makeEl(tag, cls, text, style) {
 /** Wrapper immagine con fallback placeholder — usato in tutti gli slot bracket */
 function _makeSlotImg(entry, wrapCls = 'swiss-slot-img') {
   const wrap = _makeEl('div', wrapCls);
-  if (entry?.imgPath) {
+  if (imgSrc(entry)) {
     const img = _makeEl('img');
-    img.src = entry.imgPath; img.loading = 'lazy';
+    img.src = imgSrc(entry); img.loading = 'lazy';
     img.onerror = () => { wrap.innerHTML = '<span class="swiss-slot-img-ph"></span>'; };
     wrap.appendChild(img);
   } else {
@@ -958,7 +958,7 @@ function renderTierList(list, readOnly, promoted = new Set(), relegated = new Se
     const podiumHTML = list.slice(0, 3).map((name, idx) => {
       const rank     = idx + 1;
       const entry    = getEntryByName(name);
-      const imgVal   = entry ? (entry.imgPath || '') : '';
+      const imgVal   = entry ? (imgSrc(entry) || '') : '';
       const dateVal  = entry && entry.data ? entry.data : '—';
       const isRelg   = relegated.has(name);
       const scoreVal = scores[name] !== undefined ? scores[name] : '';
@@ -989,7 +989,7 @@ function renderTierList(list, readOnly, promoted = new Set(), relegated = new Se
     const restHTML = list.slice(3).map((name, i) => {
       const idx      = i + 3;
       const entry    = getEntryByName(name);
-      const imgVal   = entry ? (entry.imgPath || '') : '';
+      const imgVal   = entry ? (imgSrc(entry) || '') : '';
       const dateVal  = entry && entry.data ? entry.data : '—';
       const isRelg   = relegated.has(name);
       const isProm   = promoted.has(name);
@@ -1025,7 +1025,7 @@ function renderTierList(list, readOnly, promoted = new Set(), relegated = new Se
   const rankColorsFull = {};
   el.innerHTML = list.map((name, idx) => {
     const entry     = getEntryByName(name);
-    const imgVal    = entry ? (entry.imgPath || '') : '';
+    const imgVal    = entry ? (imgSrc(entry) || '') : '';
     const dateVal   = entry && entry.data ? entry.data : '—';
     let rankColor = rankColorsFull[idx+1] || '#50506a';
     if (relegated.has(name)) rankColor = '#ff5050';
@@ -1101,7 +1101,7 @@ function renderAddPanel() {
     const ns   = escapeHtml(e.name);
     const date = e.data ? ` <span style="color:#8080a0;font-size:11px">(${escapeHtml(e.data)})</span>` : '';
     return `<div class="camp-add-row" onclick="campionatoAdd('${ns}')">
-      <div class="camp-add-img">${e.imgPath ? `<img src="${escapeHtml(e.imgPath)}"  loading="lazy" onerror="this.style.display='none'"/>` : '<div class="camp-rank-img-placeholder">🎵</div>'}</div>
+      <div class="camp-add-img">${imgSrc(e) ? `<img src="${escapeHtml(imgSrc(e))}"  loading="lazy" onerror="this.style.display='none'"/>` : '<div class="camp-rank-img-placeholder">🎵</div>'}</div>
       <div class="camp-add-name">${ns}${date}</div>
       <div class="camp-add-plus">＋</div>
     </div>`;
@@ -1232,7 +1232,7 @@ function renderGroupAddPanel() {
     const ns   = escapeHtml(e.name);
     const date = e.data ? ` <span style="color:#8080a0;font-size:11px">(${escapeHtml(e.data)})</span>` : '';
     return `<div class="camp-add-row" onclick="campionatoAddToGroupedTier('${ns}')">
-      <div class="camp-add-img">${e.imgPath ? `<img src="${escapeHtml(e.imgPath)}"  loading="lazy" onerror="this.style.display='none'"/>` : '<div class="camp-rank-img-placeholder">🎵</div>'}</div>
+      <div class="camp-add-img">${imgSrc(e) ? `<img src="${escapeHtml(imgSrc(e))}"  loading="lazy" onerror="this.style.display='none'"/>` : '<div class="camp-rank-img-placeholder">🎵</div>'}</div>
       <div class="camp-add-name">${ns}${date}</div>
       <div class="camp-add-plus">＋</div>
     </div>`;
@@ -1405,7 +1405,7 @@ function campSeasonModalConfirm() {
     season: getCurrentSeasonLabel(),
     entries: topS.map(name => {
       const e = getEntryByName(name);
-      return { name, imgPath: e ? (e.imgPath || '') : '' };
+      return { name, imgPath: e ? (imgSrc(e) || '') : '' };
     })
   };
   data._hallOfFame.push(hof);
@@ -1486,8 +1486,8 @@ function campAlboApri() {
     const icons  = ['🥇','🥈','🥉'];
     listEl.innerHTML = [...hof].reverse().map(row => {
       const entries = (row.entries || []).map((e, i) => {
-        const img = e.imgPath
-          ? `<img src="${escapeHtml(e.imgPath)}"  loading="lazy" onerror="this.style.display='none'"/>`
+        const img = imgSrc(e)
+          ? `<img src="${escapeHtml(imgSrc(e))}"  loading="lazy" onerror="this.style.display='none'"/>`
           : '🎵';
         return `<div class="camp-albo-entry ${medals[i] || ''}">
           <span class="camp-albo-medal">${icons[i] || ''}</span>
@@ -1630,8 +1630,8 @@ function _matchdayRenderForTier(tier, list) {
     const eb    = getEntryByName(b);
     const rankA = standings.indexOf(a) + 1;
     const rankB = standings.indexOf(b) + 1;
-    const imgA  = ea && ea.imgPath ? `<img class="matchday-team-img" src="${ea.imgPath}"  loading="lazy" onerror="this.style.display='none'">` : `<div class="matchday-team-img-placeholder">🎵</div>`;
-    const imgB  = eb && eb.imgPath ? `<img class="matchday-team-img" src="${eb.imgPath}"  loading="lazy" onerror="this.style.display='none'">` : `<div class="matchday-team-img-placeholder">🎵</div>`;
+    const imgA  = ea && imgSrc(ea) ? `<img class="matchday-team-img" src="${imgSrc(ea)}"  loading="lazy" onerror="this.style.display='none'">` : `<div class="matchday-team-img-placeholder">🎵</div>`;
+    const imgB  = eb && imgSrc(eb) ? `<img class="matchday-team-img" src="${imgSrc(eb)}"  loading="lazy" onerror="this.style.display='none'">` : `<div class="matchday-team-img-placeholder">🎵</div>`;
     const key   = _matchKey(a, b);
     const res   = savedResults[key];
     let scoreHtml = `<div class="matchday-vs">VS</div>`;
@@ -1956,8 +1956,8 @@ function _giocaRenderMatch() {
   if (counter) counter.textContent = `Match ${current + 1} / ${total}`;
 
   const ea = getEntryByName(a), eb = getEntryByName(b);
-  _giocaSetContestantImg(document.getElementById('giocaContLeftImg'),  ea?.imgPath || '');
-  _giocaSetContestantImg(document.getElementById('giocaContRightImg'), eb?.imgPath || '');
+  _giocaSetContestantImg(document.getElementById('giocaContLeftImg'),  imgSrc(ea) || '');
+  _giocaSetContestantImg(document.getElementById('giocaContRightImg'), imgSrc(eb) || '');
 
   document.getElementById('giocaContLeftName').textContent  = a;
   document.getElementById('giocaContRightName').textContent = b;
@@ -2980,8 +2980,8 @@ function _swissSetContestants(a, b) {
   const ea = getEntryByName(a), eb = getEntryByName(b);
   document.getElementById('giocaContLeft').className  = 'contestant';
   document.getElementById('giocaContRight').className = 'contestant';
-  _giocaSetContestantImg(document.getElementById('giocaContLeftImg'),  ea?.imgPath || '');
-  _giocaSetContestantImg(document.getElementById('giocaContRightImg'), eb?.imgPath || '');
+  _giocaSetContestantImg(document.getElementById('giocaContLeftImg'),  imgSrc(ea) || '');
+  _giocaSetContestantImg(document.getElementById('giocaContRightImg'), imgSrc(eb) || '');
   document.getElementById('giocaContLeftName').textContent  = a;
   document.getElementById('giocaContRightName').textContent = b;
   _gPlayers.giocaLeft.load(ea  || null, undefined, false); _gPlayers.giocaLeft.initSeek();
@@ -3127,9 +3127,9 @@ function _swissShowEndKnock() {
 
 function _makeEndImg(entry, side) {
   const sideCls = side === 'left' ? 'gioca-end-img-left' : 'gioca-end-img-right';
-  if (entry?.imgPath) {
+  if (imgSrc(entry)) {
     const img = _makeEl('img', 'gioca-end-img ' + sideCls);
-    img.src = entry.imgPath; img.loading = 'lazy';
+    img.src = imgSrc(entry); img.loading = 'lazy';
     img.onerror = function() { this.replaceWith(_makeEndImgPlaceholder()); };
     return img;
   }
