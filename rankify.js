@@ -4,14 +4,14 @@
 
 // ── CATEGORY ICON PATHS ───────────────────────────────────────────────────────
 const _CDN = `https://res.cloudinary.com/dzthrfmgv/image/upload/`;
-const OPENING_IMG    = _CDN + 'img/icon/opening.png';
-const LOL_IMG        = _CDN + 'img/icon/leagueoflegends.png';
-const TWITCH_IMG     = _CDN + 'img/icon/streamer.png';
-const YOUTUBE_IMG    = _CDN + 'img/icon/youtuber.png';
-const SIMPSON_IMG    = _CDN + 'img/icon/simpson.png';
-const ONEPIECE_IMG   = _CDN + 'img/icon/onepiece.png';
-const GOT_IMG        = _CDN + 'img/icon/gameofthrones.png';
-const TWD_IMG        = _CDN + 'img/icon/thewalkingdead.png';
+const OPENING_IMG    = _CDN + 'opening.png';
+const LOL_IMG        = _CDN + 'leagueoflegends.png';
+const TWITCH_IMG     = _CDN + 'streamer.png';
+const YOUTUBE_IMG    = _CDN + 'youtuber.png';
+const SIMPSON_IMG    = _CDN + 'simpson.png';
+const ONEPIECE_IMG   = _CDN + 'onepiece.png';
+const GOT_IMG        = _CDN + 'gameofthrones.png';
+const TWD_IMG        = _CDN + 'thewalkingdead.png';
 
 // ── SECURITY HELPERS ─────────────────────────────────────────────────────────
 /**
