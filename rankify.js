@@ -171,7 +171,8 @@ const CLOUDINARY_AUDIO = `https://res.cloudinary.com/${CLOUDINARY_CLOUD}/video/u
 function _cloudinaryFilename(path) {
   const parts = path.split('/');
   const filename = parts[parts.length - 1];
-  return filename.replace(/\.[^.]+$/, '');
+  // Cloudinary sostituisce spazi e caratteri speciali con underscore
+  return filename.replace(/\.[^.]+$/, '').replace(/ /g, '_');
 }
 
 function imgSrc(entry) {
