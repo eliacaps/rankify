@@ -3,7 +3,7 @@
 // ═══════════════════════════════════════════════════════════════════════════════
 
 // ── CATEGORY ICON PATHS ───────────────────────────────────────────────────────
-const _CDN = `https://res.cloudinary.com/dwuircz8w/image/upload/`;
+const _CDN = `https://res.cloudinary.com/dzthrfmgv/image/upload/`;
 const OPENING_IMG    = _CDN + 'img/icon/opening.png';
 const LOL_IMG        = _CDN + 'img/icon/leagueoflegends.png';
 const TWITCH_IMG     = _CDN + 'img/icon/streamer.png';
@@ -164,19 +164,27 @@ function _finishLoad() {
   refreshEditorUI();
 }
 
-const CLOUDINARY_CLOUD = 'dwuircz8w';
+const CLOUDINARY_CLOUD = 'dzthrfmgv';
 const CLOUDINARY_IMG   = `https://res.cloudinary.com/${CLOUDINARY_CLOUD}/image/upload/`;
 const CLOUDINARY_AUDIO = `https://res.cloudinary.com/${CLOUDINARY_CLOUD}/video/upload/`;
+
+function _cloudinaryFilename(path) {
+  const parts = path.split('/');
+  const filename = parts[parts.length - 1];
+  return filename.replace(/\.[^.]+$/, '');
+}
 
 function imgSrc(entry) {
   if (!entry.imgPath) return '';
   if (entry.imgPath.startsWith('http')) return entry.imgPath;
-  return CLOUDINARY_IMG + entry.imgPath;
+  const ext = entry.imgPath.split('.').pop();
+  return CLOUDINARY_IMG + _cloudinaryFilename(entry.imgPath) + '.' + ext;
 }
 function audioSrc(entry) {
   if (!entry.audioPath) return '';
   if (entry.audioPath.startsWith('http')) return entry.audioPath;
-  return CLOUDINARY_AUDIO + entry.audioPath;
+  const ext = entry.audioPath.split('.').pop();
+  return CLOUDINARY_AUDIO + _cloudinaryFilename(entry.audioPath) + '.' + ext;
 }
 
 // ── HELPERS ───────────────────────────────────────────────────────────────────
