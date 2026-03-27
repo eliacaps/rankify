@@ -3026,23 +3026,6 @@
       "audioPath": "audio/Opening/Bleach-OP13.ogg"
     },
     {
-      "name": "Bleach op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "-2010",
-      "anime": "Bleach",
-      "artista": null,
-      "genere": null,
-      "valutazione": "D+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Bleach.jpg",
-      "audioPath": "audio/Opening/Bleach-OP1.ogg"
-    },
-    {
       "name": "Bleach op2",
       "categories": [
         "Opening"
@@ -3058,6 +3041,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/Bleach.jpg",
       "audioPath": "audio/Opening/Bleach-OP2.ogg"
+    },
+    {
+      "name": "Bleach op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "-2010",
+      "anime": "Bleach",
+      "artista": null,
+      "genere": null,
+      "valutazione": "D+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Bleach.jpg",
+      "audioPath": "audio/Opening/Bleach-OP1.ogg"
     },
     {
       "name": "Dragon Ball Z",
@@ -3145,21 +3145,21 @@
       "audioPath": "audio/Opening/FairyTail-OP3.ogg"
     },
     {
-      "name": "FMA:Brotherhood op1",
+      "name": "FMAlchemist op4",
       "categories": [
         "Opening"
       ],
       "subcategories": [],
       "data": "-2010",
       "anime": "FMA",
-      "artista": null,
-      "genere": "Shonen",
-      "valutazione": "A",
+      "artista": "Asian Kung-Fu",
+      "genere": null,
+      "valutazione": "D+",
       "regione": null,
       "classe": null,
       "ruolo": null,
       "imgPath": "img/Opening/FMAB.jpg",
-      "audioPath": "audio/Opening/FullmetalAlchemistBrotherhood-OP1.ogg"
+      "audioPath": "audio/Opening/FullmetalAlchemist-OP4.ogg"
     },
     {
       "name": "FMA:Brotherhood op2",
@@ -3194,6 +3194,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/FMAB.jpg",
       "audioPath": "audio/Opening/FullmetalAlchemist-OP1.ogg"
+    },
+    {
+      "name": "FMA:Brotherhood op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "-2010",
+      "anime": "FMA",
+      "artista": null,
+      "genere": "Shonen",
+      "valutazione": "A",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/FMAB.jpg",
+      "audioPath": "audio/Opening/FullmetalAlchemistBrotherhood-OP1.ogg"
     },
     {
       "name": "FMA:Brotherhood op4",
@@ -3247,23 +3264,6 @@
       "audioPath": "audio/Opening/FullmetalAlchemistBrotherhood-OP3.ogg"
     },
     {
-      "name": "FMAlchemist op4",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "-2010",
-      "anime": "FMA",
-      "artista": "Asian Kung-Fu",
-      "genere": null,
-      "valutazione": "D+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/FMAB.jpg",
-      "audioPath": "audio/Opening/FullmetalAlchemist-OP4.ogg"
-    },
-    {
       "name": "Gintama-san op4",
       "categories": [
         "Opening"
@@ -3279,6 +3279,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/Gintama.webp",
       "audioPath": "audio/Opening/Gintama-OP4-YorinukiGintamaSan.ogg"
+    },
+    {
+      "name": "Naruto op2",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "-2010",
+      "anime": "Naruto",
+      "artista": "Asian Kung-Fu",
+      "genere": "Shonen",
+      "valutazione": "C",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Naruto.jpg",
+      "audioPath": "audio/Opening/Naruto-OP2.ogg"
     },
     {
       "name": "Naruto Shippuden op3",
@@ -3298,6 +3315,23 @@
       "audioPath": "audio/Opening/NarutoShippuuden-OP3.ogg"
     },
     {
+      "name": "Naruto Shippuden op5",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "-2010",
+      "anime": "Naruto",
+      "artista": "Ikimonogakari",
+      "genere": null,
+      "valutazione": "D+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Naruto Shippuden.jpg",
+      "audioPath": "audio/Opening/NarutoShippuuden-OP5.ogg"
+    },
+    {
       "name": "Naruto Shippuden op8",
       "categories": [
         "Opening"
@@ -3313,23 +3347,6 @@
       "ruolo": null,
       "imgPath": "img/Opening/Naruto Shippuden.jpg",
       "audioPath": "audio/Opening/NarutoShippuuden-OP8.ogg"
-    },
-    {
-      "name": "Naruto op2",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "-2010",
-      "anime": "Naruto",
-      "artista": "Asian Kung-Fu",
-      "genere": "Shonen",
-      "valutazione": "C",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Naruto.jpg",
-      "audioPath": "audio/Opening/Naruto-OP2.ogg"
     },
     {
       "name": "Naruto Shippuden op6",
@@ -3417,21 +3434,21 @@
       "audioPath": "audio/Opening/NarutoShippuuden-OP4.ogg"
     },
     {
-      "name": "Naruto Shippuden op5",
+      "name": "One Piece op1",
       "categories": [
         "Opening"
       ],
       "subcategories": [],
       "data": "-2010",
-      "anime": "Naruto",
-      "artista": "Ikimonogakari",
-      "genere": null,
-      "valutazione": "D+",
+      "anime": "OnePiece",
+      "artista": "Hiroshi Kitadani",
+      "genere": "Shonen",
+      "valutazione": "C",
       "regione": null,
       "classe": null,
       "ruolo": null,
-      "imgPath": "img/Opening/Naruto Shippuden.jpg",
-      "audioPath": "audio/Opening/NarutoShippuuden-OP5.ogg"
+      "imgPath": "img/Opening/One Piece.jpg",
+      "audioPath": "audio/Opening/OnePiece-OP1-NCDVD480.ogg"
     },
     {
       "name": "One Piece op3",
@@ -3466,23 +3483,6 @@
       "ruolo": null,
       "imgPath": "img/Opening/One Piece.jpg",
       "audioPath": "audio/Opening/OnePiece-OP13-NCBD.ogg"
-    },
-    {
-      "name": "One Piece op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "-2010",
-      "anime": "OnePiece",
-      "artista": "Hiroshi Kitadani",
-      "genere": "Shonen",
-      "valutazione": "C",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/One Piece.jpg",
-      "audioPath": "audio/Opening/OnePiece-OP1-NCDVD480.ogg"
     },
     {
       "name": "One Piece op2",
@@ -3585,6 +3585,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/Angel Beats.jpg",
       "audioPath": "audio/Opening/AngelBeats-OP1.ogg"
+    },
+    {
+      "name": "GTO op2",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "-2010",
+      "anime": null,
+      "artista": "Porno Graffitti",
+      "genere": null,
+      "valutazione": "C+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/GTO.jpg",
+      "audioPath": "audio/Opening/GreatTeacherOnizuka-OP2.ogg"
     },
     {
       "name": "Durarara op1",
@@ -3874,23 +3891,6 @@
       "ruolo": null,
       "imgPath": "img/Opening/Death Note.jpg",
       "audioPath": "audio/Opening/DeathNote-OP1.ogg"
-    },
-    {
-      "name": "GTO op2",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "-2010",
-      "anime": null,
-      "artista": "Porno Graffitti",
-      "genere": null,
-      "valutazione": "C+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/GTO.jpg",
-      "audioPath": "audio/Opening/GreatTeacherOnizuka-OP2.ogg"
     },
     {
       "name": "Death Note op2",
@@ -4250,23 +4250,6 @@
       "audioPath": "audio/Opening/NarutoShippuuden-OP16.ogg"
     },
     {
-      "name": "Naruto Shippuden op9",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2011-2015",
-      "anime": "Naruto",
-      "artista": null,
-      "genere": null,
-      "valutazione": "B+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Naruto Shippuden.jpg",
-      "audioPath": "audio/Opening/NarutoShippuuden-OP9.ogg"
-    },
-    {
       "name": "Naruto Shippuden op13",
       "categories": [
         "Opening"
@@ -4282,6 +4265,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/Naruto Shippuden.jpg",
       "audioPath": "audio/Opening/NarutoShippuuden-OP13.ogg"
+    },
+    {
+      "name": "Naruto Shippuden op9",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2011-2015",
+      "anime": "Naruto",
+      "artista": null,
+      "genere": null,
+      "valutazione": "B+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Naruto Shippuden.jpg",
+      "audioPath": "audio/Opening/NarutoShippuuden-OP9.ogg"
     },
     {
       "name": "One Piece op15",
@@ -4352,6 +4352,23 @@
       "audioPath": "audio/Opening/OnePiece-OP18.ogg"
     },
     {
+      "name": "Seven Deadly Sins op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2011-2015",
+      "anime": "SDeadlySins",
+      "artista": "Ikimonogakari",
+      "genere": null,
+      "valutazione": "A+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/SDeadly Sins.jpg",
+      "audioPath": "audio/Opening/NanatsuNoTaizai-OP1.ogg"
+    },
+    {
       "name": "Seven Deadly Sins op2",
       "categories": [
         "Opening"
@@ -4369,21 +4386,38 @@
       "audioPath": "audio/Opening/NanatsuNoTaizai-OP2.ogg"
     },
     {
-      "name": "Seven Deadly Sins op1",
+      "name": "Blood Blockade Battlefront op1",
       "categories": [
         "Opening"
       ],
       "subcategories": [],
       "data": "2011-2015",
-      "anime": "SDeadlySins",
-      "artista": "Ikimonogakari",
+      "anime": null,
+      "artista": "BUMP OF CHICKEN",
       "genere": null,
-      "valutazione": "A+",
+      "valutazione": "C",
       "regione": null,
       "classe": null,
       "ruolo": null,
-      "imgPath": "img/Opening/SDeadly Sins.jpg",
-      "audioPath": "audio/Opening/NanatsuNoTaizai-OP1.ogg"
+      "imgPath": "img/Opening/Blood Blockade Battlefront.png",
+      "audioPath": "audio/Opening/KekkaiSensen-OP1.ogg"
+    },
+    {
+      "name": "No Game No Life op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2011-2015",
+      "anime": null,
+      "artista": "KonomiSuzuki",
+      "genere": null,
+      "valutazione": "B",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/No Game No Life.webp",
+      "audioPath": "audio/Opening/NoGameNoLife-OP1.ogg"
     },
     {
       "name": "SAO op1",
@@ -4418,6 +4452,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/Noragami.webp",
       "audioPath": "audio/Opening/NoragamiAragoto-OP1.ogg"
+    },
+    {
+      "name": "Overlord op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2011-2015",
+      "anime": null,
+      "artista": "OxT",
+      "genere": null,
+      "valutazione": "B+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Overlord.jpg",
+      "audioPath": "audio/Opening/Overlord-OP1.ogg"
     },
     {
       "name": "Owari no Seraph op1",
@@ -4573,23 +4624,6 @@
       "audioPath": "audio/Opening/Mushibugyou-OP2.ogg"
     },
     {
-      "name": "No Game No Life op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2011-2015",
-      "anime": null,
-      "artista": "KonomiSuzuki",
-      "genere": null,
-      "valutazione": "B",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/No Game No Life.webp",
-      "audioPath": "audio/Opening/NoGameNoLife-OP1.ogg"
-    },
-    {
       "name": "Parasyte",
       "categories": [
         "Opening"
@@ -4675,23 +4709,6 @@
       "audioPath": "audio/Opening/ShingekiNoBahamutGenesis-OP1.ogg"
     },
     {
-      "name": "Overlord op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2011-2015",
-      "anime": null,
-      "artista": "OxT",
-      "genere": null,
-      "valutazione": "B+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Overlord.jpg",
-      "audioPath": "audio/Opening/Overlord-OP1.ogg"
-    },
-    {
       "name": "Steins;Gate",
       "categories": [
         "Opening"
@@ -4724,23 +4741,6 @@
       "ruolo": null,
       "imgPath": "img/Opening/Akame ga kill.jpg",
       "audioPath": "audio/Opening/AkameGaKill-OP1.ogg"
-    },
-    {
-      "name": "Blood Blockade Battlefront op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2011-2015",
-      "anime": null,
-      "artista": "BUMP OF CHICKEN",
-      "genere": null,
-      "valutazione": "C",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Blood Blockade Battlefront.png",
-      "audioPath": "audio/Opening/KekkaiSensen-OP1.ogg"
     },
     {
       "name": "Guilty Crown op2",
@@ -5134,23 +5134,6 @@
       "audioPath": "audio/Opening/FairyTail2014-OP8.ogg"
     },
     {
-      "name": "Fire Force op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": "FireForce",
-      "artista": "Mrs. GREEN APPLE",
-      "genere": null,
-      "valutazione": "A+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Fire Force op1.png",
-      "audioPath": "audio/Opening/EnenNoShouboutai-OP1-NCBD1080.ogg"
-    },
-    {
       "name": "Fire Force op2",
       "categories": [
         "Opening"
@@ -5166,6 +5149,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/Fire Force op1.png",
       "audioPath": "audio/Opening/EnenNoShouboutai-OP2-NCBD1080.ogg"
+    },
+    {
+      "name": "Fire Force op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": "FireForce",
+      "artista": "Mrs. GREEN APPLE",
+      "genere": null,
+      "valutazione": "A+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Fire Force op1.png",
+      "audioPath": "audio/Opening/EnenNoShouboutai-OP1-NCBD1080.ogg"
     },
     {
       "name": "Gintama: Shirogane op3",
@@ -5338,23 +5338,6 @@
       "audioPath": "audio/Opening/BokuNoHeroAcademiaS2-OP1-NCBD1080.ogg"
     },
     {
-      "name": "MHAcademia s3op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": "MHAcademia",
-      "artista": "UVERworld",
-      "genere": null,
-      "valutazione": "A",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/MH Academia.webp",
-      "audioPath": "audio/Opening/BokuNoHeroAcademiaS3-OP1-NCBD1080.ogg"
-    },
-    {
       "name": "MHAcademia s1op1",
       "categories": [
         "Opening"
@@ -5370,6 +5353,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/MH Academia.webp",
       "audioPath": "audio/Opening/BokuNoHeroAcademia-OP1-NCBD1080.ogg"
+    },
+    {
+      "name": "MHAcademia s3op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": "MHAcademia",
+      "artista": "UVERworld",
+      "genere": null,
+      "valutazione": "A",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/MH Academia.webp",
+      "audioPath": "audio/Opening/BokuNoHeroAcademiaS3-OP1-NCBD1080.ogg"
     },
     {
       "name": "MHAcademia s2op2",
@@ -5423,21 +5423,21 @@
       "audioPath": "audio/Opening/GundamTheOriginTV-OP3-NCBD1080.ogg"
     },
     {
-      "name": "Boruto op4",
+      "name": "Overlord op3",
       "categories": [
         "Opening"
       ],
       "subcategories": [],
       "data": "2016-2019",
-      "anime": "Naruto",
+      "anime": "MYTH & ROID",
       "artista": null,
       "genere": null,
-      "valutazione": "D+",
+      "valutazione": "C+",
       "regione": null,
       "classe": null,
       "ruolo": null,
-      "imgPath": "img/Opening/Boruto.jpg",
-      "audioPath": "audio/Opening/Boruto-OP4-NCBD1080.ogg"
+      "imgPath": "img/Opening/Overlord.jpg",
+      "audioPath": "audio/Opening/OverlordS3-OP1-NCBD1080.ogg"
     },
     {
       "name": "Naruto Shippuden op19",
@@ -5455,6 +5455,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/Naruto Shippuden.jpg",
       "audioPath": "audio/Opening/NarutoShippuuden-OP19.ogg"
+    },
+    {
+      "name": "Boruto op4",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": "Naruto",
+      "artista": null,
+      "genere": null,
+      "valutazione": "D+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Boruto.jpg",
+      "audioPath": "audio/Opening/Boruto-OP4-NCBD1080.ogg"
     },
     {
       "name": "One Piece op20",
@@ -5576,6 +5593,57 @@
       "audioPath": "audio/Opening/Beastars-OP1-NCBD1080.ogg"
     },
     {
+      "name": "Erased",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": null,
+      "artista": "Asian Kung-Fu",
+      "genere": null,
+      "valutazione": "B",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Erased.jpg",
+      "audioPath": "audio/Opening/Erased-OP1.ogg"
+    },
+    {
+      "name": "Karakuri Circus op2",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": null,
+      "artista": "KANA-BOON",
+      "genere": null,
+      "valutazione": "B",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Karakuri Circus.jpg",
+      "audioPath": "audio/Opening/KarakuriCircus-OP2.ogg"
+    },
+    {
+      "name": "Re:Zero s1op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": null,
+      "artista": "KonomiSuzuki",
+      "genere": null,
+      "valutazione": "C",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Re zero.jpg",
+      "audioPath": "audio/Opening/ReZero-OP1.ogg"
+    },
+    {
       "name": "SAO: Alicization op1",
       "categories": [
         "Opening"
@@ -5591,6 +5659,91 @@
       "ruolo": null,
       "imgPath": "img/Opening/SAO Alicization.jpg",
       "audioPath": "audio/Opening/SwordArtOnlineAlicization-OP1-NCBD1080.ogg"
+    },
+    {
+      "name": "The Rising of the Shield Hero op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": null,
+      "artista": "MADKID",
+      "genere": null,
+      "valutazione": "A",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Shield Hero.jpg",
+      "audioPath": "audio/Opening/ShieldHero-OP1-NCBD1080.ogg"
+    },
+    {
+      "name": "The Rising of the Shield Hero op2",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": null,
+      "artista": "MADKID",
+      "genere": null,
+      "valutazione": "B+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Shield Hero.jpg",
+      "audioPath": "audio/Opening/ShieldHero-OP2-NCBD1080.ogg"
+    },
+    {
+      "name": "Inuyashiki",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": null,
+      "artista": "ManWithAMission",
+      "genere": null,
+      "valutazione": "C",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/inuyashiki.avif",
+      "audioPath": "audio/Opening/Inuyashiki-OP1-NCBD1080.ogg"
+    },
+    {
+      "name": "Re:Zero s1op2",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": null,
+      "artista": "MYTH & ROID",
+      "genere": null,
+      "valutazione": "C",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Re zero.jpg",
+      "audioPath": "audio/Opening/ReZero-OP2.ogg"
+    },
+    {
+      "name": "Saga of Tanya the Evil",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": null,
+      "artista": "MYTH & ROID",
+      "genere": null,
+      "valutazione": "D+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/tanya.avif",
+      "audioPath": "audio/Opening/YoujoSenki-OP1.ogg"
     },
     {
       "name": "Revisions",
@@ -5627,6 +5780,40 @@
       "audioPath": "audio/Opening/LOGH-OP1-NCBD1080.ogg"
     },
     {
+      "name": "Banana fish op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": null,
+      "artista": "SurviveSaidTheProphet",
+      "genere": null,
+      "valutazione": "C+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Banana fish.jpg",
+      "audioPath": "audio/Opening/BananaFish-OP1-NCBD1080.ogg"
+    },
+    {
+      "name": "Mob Psycho op2",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": null,
+      "artista": "TatsuyaKitani",
+      "genere": null,
+      "valutazione": "C",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Mob Pysco.jpg",
+      "audioPath": "audio/Opening/MobPsycho100S2-OP1-BD1080.ogg"
+    },
+    {
       "name": "The Promised Neverland op1",
       "categories": [
         "Opening"
@@ -5644,6 +5831,23 @@
       "audioPath": "audio/Opening/YakusokuNoNeverland-OP1-NCBD1080.ogg"
     },
     {
+      "name": "Dororo op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2016-2019",
+      "anime": null,
+      "artista": "Ziyoou-vachi",
+      "genere": null,
+      "valutazione": "S+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Dororo.jpg",
+      "audioPath": "audio/Opening/Dororo2019-OP1-NCBD1080.ogg"
+    },
+    {
       "name": "Carole and Tuesday op1",
       "categories": [
         "Opening"
@@ -5657,7 +5861,7 @@
       "regione": null,
       "classe": null,
       "ruolo": null,
-      "imgPath": "img/Opening/Carole & Tuesday.jpg",
+      "imgPath": "img/Opening/Carole and Tuesday.jpg",
       "audioPath": "audio/Opening/CaroleAndTuesday-OP1-NCBD1080.ogg"
     },
     {
@@ -5729,23 +5933,6 @@
       "audioPath": "audio/Opening/DivineGate-OP1.ogg"
     },
     {
-      "name": "The Rising of the Shield Hero op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": null,
-      "artista": "MADKID",
-      "genere": null,
-      "valutazione": "A",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Shield Hero.jpg",
-      "audioPath": "audio/Opening/ShieldHero-OP1-NCBD1080.ogg"
-    },
-    {
       "name": "Yuri on Ice",
       "categories": [
         "Opening"
@@ -5814,40 +6001,6 @@
       "audioPath": "audio/Opening/BungouStrayDogsS2-OP1-BD1080.ogg"
     },
     {
-      "name": "Erased",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": null,
-      "artista": "Asian Kung-Fu",
-      "genere": null,
-      "valutazione": "B",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Erased.jpg",
-      "audioPath": "audio/Opening/Erased-OP1.ogg"
-    },
-    {
-      "name": "Karakuri Circus op2",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": null,
-      "artista": "KANA-BOON",
-      "genere": null,
-      "valutazione": "B",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Karakuri Circus.jpg",
-      "audioPath": "audio/Opening/KarakuriCircus-OP2.ogg"
-    },
-    {
       "name": "Princess Principal",
       "categories": [
         "Opening"
@@ -5899,23 +6052,6 @@
       "audioPath": "audio/Opening/MobPsycho100-OP1-BD1080.ogg"
     },
     {
-      "name": "The Rising of the Shield Hero op2",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": null,
-      "artista": "MADKID",
-      "genere": null,
-      "valutazione": "B+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Shield Hero.jpg",
-      "audioPath": "audio/Opening/ShieldHero-OP2-NCBD1080.ogg"
-    },
-    {
       "name": "Drifters op1",
       "categories": [
         "Opening"
@@ -5931,23 +6067,6 @@
       "ruolo": null,
       "imgPath": "img/Opening/drifters.jpg",
       "audioPath": "audio/Opening/Drifters-OP1-NCBD1080.ogg"
-    },
-    {
-      "name": "Inuyashiki",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": null,
-      "artista": "ManWithAMission",
-      "genere": null,
-      "valutazione": "C",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/inuyashiki.avif",
-      "audioPath": "audio/Opening/Inuyashiki-OP1-NCBD1080.ogg"
     },
     {
       "name": "Made in Abyss s1op2",
@@ -5967,57 +6086,6 @@
       "audioPath": "audio/Opening/MadeInAbyss-OP2-NCBD1080.ogg"
     },
     {
-      "name": "Mob Psycho op2",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": null,
-      "artista": "TatsuyaKitani",
-      "genere": null,
-      "valutazione": "C",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Mob Pysco.jpg",
-      "audioPath": "audio/Opening/MobPsycho100S2-OP1-BD1080.ogg"
-    },
-    {
-      "name": "Re:Zero s1op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": null,
-      "artista": "KonomiSuzuki",
-      "genere": null,
-      "valutazione": "C",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Re zero.jpg",
-      "audioPath": "audio/Opening/ReZero-OP1.ogg"
-    },
-    {
-      "name": "Re:Zero s1op2",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": null,
-      "artista": "MYTH & ROID",
-      "genere": null,
-      "valutazione": "C",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Re zero.jpg",
-      "audioPath": "audio/Opening/ReZero-OP2.ogg"
-    },
-    {
       "name": "Steins;Gate 0",
       "categories": [
         "Opening"
@@ -6033,23 +6101,6 @@
       "ruolo": null,
       "imgPath": "img/Opening/Steins Gate.jpg",
       "audioPath": "audio/Opening/SteinsGateZero-OP1-NCBD1080.ogg"
-    },
-    {
-      "name": "Banana fish op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": null,
-      "artista": "SurviveSaidTheProphet",
-      "genere": null,
-      "valutazione": "C+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Banana fish.jpg",
-      "audioPath": "audio/Opening/BananaFish-OP1-NCBD1080.ogg"
     },
     {
       "name": "Darling in the franxx",
@@ -6118,40 +6169,6 @@
       "ruolo": null,
       "imgPath": "img/Opening/Granblue Fantasy.jpg",
       "audioPath": "audio/Opening/GranblueFantasyS2-OP1-NCBD1080.ogg"
-    },
-    {
-      "name": "Overlord op3",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": "MYTH & ROID",
-      "artista": null,
-      "genere": null,
-      "valutazione": "C+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Overlord.jpg",
-      "audioPath": "audio/Opening/OverlordS3-OP1-NCBD1080.ogg"
-    },
-    {
-      "name": "Dororo op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": null,
-      "artista": "Ziyoou-vachi",
-      "genere": null,
-      "valutazione": "S+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Dororo.jpg",
-      "audioPath": "audio/Opening/Dororo2019-OP1-NCBD1080.ogg"
     },
     {
       "name": "Attack on Titan op7",
@@ -6528,23 +6545,6 @@
       "audioPath": "audio/Opening/OnePiece-OP23.ogg"
     },
     {
-      "name": "Spy x Family s1op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2020-2022",
-      "anime": "SxF",
-      "artista": "HIGE DANdism",
-      "genere": null,
-      "valutazione": "B",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Spy X Family.jpg",
-      "audioPath": "audio/Opening/SpyXFamily-OP1.ogg"
-    },
-    {
       "name": "Spy x Family s1op2",
       "categories": [
         "Opening"
@@ -6560,6 +6560,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/Spy X Family.jpg",
       "audioPath": "audio/Opening/SpyXFamilyPart2-OP1-NCBD1080.ogg"
+    },
+    {
+      "name": "Spy x Family s1op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2020-2022",
+      "anime": "SxF",
+      "artista": "HIGE DANdism",
+      "genere": null,
+      "valutazione": "B",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Spy X Family.jpg",
+      "audioPath": "audio/Opening/SpyXFamily-OP1.ogg"
     },
     {
       "name": "Bastard!! op1",
@@ -6596,6 +6613,23 @@
       "audioPath": "audio/Opening/YofukashiNoUta-OP1-BD1080.ogg"
     },
     {
+      "name": "Tokyo Revengers",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2020-2022",
+      "anime": null,
+      "artista": "HIGE DANdism",
+      "genere": "Furyo",
+      "valutazione": "B",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Tokyo Revengers.webp",
+      "audioPath": "audio/Opening/TokyoRevengers-OP1-NCBD1080.ogg"
+    },
+    {
       "name": "Chainsaw Man",
       "categories": [
         "Opening"
@@ -6613,6 +6647,40 @@
       "audioPath": "audio/Opening/ChainsawMan-OP1-NCBD1080.ogg"
     },
     {
+      "name": "Ranking of Kings op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2020-2022",
+      "anime": null,
+      "artista": "King Gnu",
+      "genere": null,
+      "valutazione": "D+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Ousama Ranking.jpg",
+      "audioPath": "audio/Opening/OusamaRanking-OP1-NCBD1080.ogg"
+    },
+    {
+      "name": "Beast Tamer",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2020-2022",
+      "anime": null,
+      "artista": "MADKID",
+      "genere": null,
+      "valutazione": "C",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/beast tamer.webp",
+      "audioPath": "audio/Opening/BeastTamer-OP1.ogg"
+    },
+    {
       "name": "Scarlet Nexus op1",
       "categories": [
         "Opening"
@@ -6628,6 +6696,40 @@
       "ruolo": null,
       "imgPath": "img/Opening/Scarlet Nexus.webp",
       "audioPath": "audio/Opening/ScarletNexus-OP1-NCBD1080.ogg"
+    },
+    {
+      "name": "Overlord op4",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2020-2022",
+      "anime": null,
+      "artista": "OxT",
+      "genere": null,
+      "valutazione": "A+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Overlord.jpg",
+      "audioPath": "audio/Opening/OverlordS4-OP1-NCBD1080.ogg"
+    },
+    {
+      "name": "Shadow Garden op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2020-2022",
+      "anime": null,
+      "artista": "OxT",
+      "genere": null,
+      "valutazione": "B",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Shadow Garden.jpg",
+      "audioPath": "audio/Opening/ShadowGarden-OP1-NCBD1080.ogg"
     },
     {
       "name": "No Guns Life op2",
@@ -6715,23 +6817,6 @@
       "audioPath": "audio/Opening/BeastarsS2-OP1-NCBD1080.ogg"
     },
     {
-      "name": "Tokyo Revengers",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2020-2022",
-      "anime": null,
-      "artista": "HIGE DANdism",
-      "genere": "Furyo",
-      "valutazione": "B",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Tokyo Revengers.webp",
-      "audioPath": "audio/Opening/TokyoRevengers-OP1-NCBD1080.ogg"
-    },
-    {
       "name": "Kaguya-Sama op2",
       "categories": [
         "Opening"
@@ -6800,23 +6885,6 @@
       "audioPath": "audio/Opening/OddTaxi-OP1-NCBD1080.ogg"
     },
     {
-      "name": "Overlord op4",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2020-2022",
-      "anime": null,
-      "artista": "OxT",
-      "genere": null,
-      "valutazione": "A+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Overlord.jpg",
-      "audioPath": "audio/Opening/OverlordS4-OP1-NCBD1080.ogg"
-    },
-    {
       "name": "Cyberpunk: Edgerunners",
       "categories": [
         "Opening"
@@ -6849,23 +6917,6 @@
       "ruolo": null,
       "imgPath": "img/Opening/Made in Abyss.jpg",
       "audioPath": "audio/Opening/MadeInAbyssS2-OP2-NCBD1080.ogg"
-    },
-    {
-      "name": "Shadow Garden op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2020-2022",
-      "anime": null,
-      "artista": "OxT",
-      "genere": null,
-      "valutazione": "B",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Shadow Garden.jpg",
-      "audioPath": "audio/Opening/ShadowGarden-OP1-NCBD1080.ogg"
     },
     {
       "name": "Tensura s2op2",
@@ -6951,23 +7002,6 @@
       "ruolo": null,
       "imgPath": "img/Opening/Urusei Yatsura(22).webp",
       "audioPath": "audio/Opening/UruseiYatsura2022-OP1-NCBD1080.ogg"
-    },
-    {
-      "name": "Beast Tamer",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2020-2022",
-      "anime": null,
-      "artista": "MADKID",
-      "genere": null,
-      "valutazione": "C",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/beast tamer.webp",
-      "audioPath": "audio/Opening/BeastTamer-OP1.ogg"
     },
     {
       "name": "Blue Lock op1",
@@ -7072,21 +7106,21 @@
       "audioPath": "audio/Opening/JibakuShounenHanakoKun-OP1.ogg"
     },
     {
-      "name": "Ranking of Kings op1",
+      "name": "Bocchi the Rock!",
       "categories": [
         "Opening"
       ],
       "subcategories": [],
       "data": "2020-2022",
       "anime": null,
-      "artista": "King Gnu",
+      "artista": null,
       "genere": null,
       "valutazione": "D+",
       "regione": null,
       "classe": null,
       "ruolo": null,
-      "imgPath": "img/Opening/Ousama Ranking.jpg",
-      "audioPath": "audio/Opening/OusamaRanking-OP1-NCBD1080.ogg"
+      "imgPath": "img/Opening/Bocchi_the_Rock.jpg",
+      "audioPath": "audio/Opening/BocchiTheRock-OP1-NCBD1080.ogg"
     },
     {
       "name": "To Your Eternity op1/2",
@@ -7157,23 +7191,6 @@
       "audioPath": "audio/Opening/KimetsuNoYaibaKatanakajiNoSatoHen-OP1-NCBD1080.ogg"
     },
     {
-      "name": "Jujutsu Kaisen op3",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2023",
-      "anime": "JujutsuKaisen",
-      "artista": null,
-      "genere": null,
-      "valutazione": "A",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Jujutsu kaisen.webp",
-      "audioPath": "audio/Opening/JujutsuKaisenS2-OP1-NCBD1080.ogg"
-    },
-    {
       "name": "Jujutsu Kaisen op4",
       "categories": [
         "Opening"
@@ -7189,6 +7206,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/Jujutsu kaisen.webp",
       "audioPath": "audio/Opening/JujutsuKaisenS2-OP2-NCBD1080.ogg"
+    },
+    {
+      "name": "Jujutsu Kaisen op3",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2023",
+      "anime": "JujutsuKaisen",
+      "artista": null,
+      "genere": null,
+      "valutazione": "A",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Jujutsu kaisen.webp",
+      "audioPath": "audio/Opening/JujutsuKaisenS2-OP1-NCBD1080.ogg"
     },
     {
       "name": "MHAcademia s6op2",
@@ -7276,6 +7310,23 @@
       "audioPath": "audio/Opening/SpyXFamilyS2-OP1.ogg"
     },
     {
+      "name": "Vinland Saga op4",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2023",
+      "anime": "VinlandSaga",
+      "artista": "SurviveSaidTheProphet",
+      "genere": null,
+      "valutazione": "S",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Vinland Saga.jpg",
+      "audioPath": "audio/Opening/VinlandSagaS2-OP2-NCBD1080.ogg"
+    },
+    {
       "name": "Vinland Saga op3",
       "categories": [
         "Opening"
@@ -7293,21 +7344,89 @@
       "audioPath": "audio/Opening/VinlandSagaS2-OP1.ogg"
     },
     {
-      "name": "Vinland Saga op4",
+      "name": "Bastard!! op2",
       "categories": [
         "Opening"
       ],
       "subcategories": [],
       "data": "2023",
-      "anime": "VinlandSaga",
-      "artista": "SurviveSaidTheProphet",
+      "anime": null,
+      "artista": "coldrain",
       "genere": null,
-      "valutazione": "S",
+      "valutazione": "D+",
       "regione": null,
       "classe": null,
       "ruolo": null,
-      "imgPath": "img/Opening/Vinland Saga.jpg",
-      "audioPath": "audio/Opening/VinlandSagaS2-OP2-NCBD1080.ogg"
+      "imgPath": "img/Opening/Bastard!!.jpg",
+      "audioPath": "audio/Opening/Bastard2022S2-OP1.ogg"
+    },
+    {
+      "name": "Rurouni Kenshin(23) op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2023",
+      "anime": null,
+      "artista": "CreepyNuts",
+      "genere": null,
+      "valutazione": "B",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/RKenshin(23).webp",
+      "audioPath": "audio/Opening/RurouniKenshin2023-OP1.ogg"
+    },
+    {
+      "name": "Zom 100",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2023",
+      "anime": null,
+      "artista": "KANA-BOON",
+      "genere": null,
+      "valutazione": "B",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Zom 100.jpg",
+      "audioPath": "audio/Opening/Zom100-OP1.ogg"
+    },
+    {
+      "name": "The Irregular at Magic High School s3op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2023",
+      "anime": null,
+      "artista": "LiSA",
+      "genere": null,
+      "valutazione": "D+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/The Irregular at Magic High School.jpg",
+      "audioPath": "audio/Opening/MahoukaKoukouNoRettouseiS3-OP1.ogg"
+    },
+    {
+      "name": "The Rising of the Shield Hero op4",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2023",
+      "anime": null,
+      "artista": "MADKID",
+      "genere": null,
+      "valutazione": "B",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Shield Hero.jpg",
+      "audioPath": "audio/Opening/ShieldHeroS3-OP1.ogg"
     },
     {
       "name": "Frieren op1",
@@ -7342,6 +7461,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/Oshi no ko.webp",
       "audioPath": "audio/Opening/OshiNoKo-OP1-NCBD1080.ogg"
+    },
+    {
+      "name": "Undead Unluck op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2023",
+      "anime": null,
+      "artista": "Ziyoou-vachi",
+      "genere": null,
+      "valutazione": "S",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Undead Unluck.jpg",
+      "audioPath": "audio/Opening/UndeadUnluck-OP1-NCBD1080.ogg"
     },
     {
       "name": "Tonikawa",
@@ -7429,57 +7565,6 @@
       "audioPath": "audio/Opening/BeybladeX-OP1.ogg"
     },
     {
-      "name": "Rurouni Kenshin(23) op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2023",
-      "anime": null,
-      "artista": "CreepyNuts",
-      "genere": null,
-      "valutazione": "B",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/RKenshin(23).webp",
-      "audioPath": "audio/Opening/RurouniKenshin2023-OP1.ogg"
-    },
-    {
-      "name": "The Rising of the Shield Hero op4",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2023",
-      "anime": null,
-      "artista": "MADKID",
-      "genere": null,
-      "valutazione": "B",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Shield Hero.jpg",
-      "audioPath": "audio/Opening/ShieldHeroS3-OP1.ogg"
-    },
-    {
-      "name": "Zom 100",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2023",
-      "anime": null,
-      "artista": "KANA-BOON",
-      "genere": null,
-      "valutazione": "B",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Zom 100.jpg",
-      "audioPath": "audio/Opening/Zom100-OP1.ogg"
-    },
-    {
       "name": "Trigun Stampade(2023)",
       "categories": [
         "Opening"
@@ -7512,6 +7597,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/undead girl.webp",
       "audioPath": "audio/Opening/UndeadGirl-OP1.ogg"
+    },
+    {
+      "name": "Kengan Ashura s2op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2023",
+      "anime": null,
+      "artista": null,
+      "genere": null,
+      "valutazione": "C+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/kenganahura.jpg",
+      "audioPath": "audio/Opening/KenganAshuraS2-OP1.ogg"
     },
     {
       "name": "Blue Orchestra op1",
@@ -7548,6 +7650,40 @@
       "audioPath": "audio/Opening/DeadMountDeathPlay-OP1.ogg"
     },
     {
+      "name": "Dr. Stone s3op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2023",
+      "anime": null,
+      "artista": null,
+      "genere": null,
+      "valutazione": "D+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Dr. Stone.jpg",
+      "audioPath": "audio/Opening/DrStoneS3-OP1-NCBD1080.ogg"
+    },
+    {
+      "name": "High Card s2op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2023",
+      "anime": null,
+      "artista": null,
+      "genere": null,
+      "valutazione": "D+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/highcard.avif",
+      "audioPath": "audio/Opening/HighCardS2-OP1.ogg"
+    },
+    {
       "name": "Ragna Crimson op1",
       "categories": [
         "Opening"
@@ -7580,23 +7716,6 @@
       "ruolo": null,
       "imgPath": "img/Opening/Hell's Paradise.jpg",
       "audioPath": "audio/Opening/Jigokuraku-OP1.ogg"
-    },
-    {
-      "name": "Undead Unluck op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2023",
-      "anime": null,
-      "artista": "Ziyoou-vachi",
-      "genere": null,
-      "valutazione": "S",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Undead Unluck.jpg",
-      "audioPath": "audio/Opening/UndeadUnluck-OP1-NCBD1080.ogg"
     },
     {
       "name": "Urusei Yatsura(22) op2",
@@ -7786,6 +7905,23 @@
       "audioPath": "audio/Opening/ShangrilaFrontier-OP2.ogg"
     },
     {
+      "name": "Dungeon Meshi op2",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2024",
+      "anime": null,
+      "artista": "BUMP OF CHICKEN",
+      "genere": null,
+      "valutazione": "B",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Dungeon Meshi.jpg",
+      "audioPath": "audio/Opening/DungeonMeshi-OP2-NCBD1080.ogg"
+    },
+    {
       "name": "Ninja Kamui",
       "categories": [
         "Opening"
@@ -7835,6 +7971,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/Mashle.jpg",
       "audioPath": "audio/Opening/MashleS2-OP1.ogg"
+    },
+    {
+      "name": "Re:Zero s3op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2024",
+      "anime": null,
+      "artista": "KonomiSuzuki",
+      "genere": null,
+      "valutazione": "C+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Re zero.jpg",
+      "audioPath": "audio/Opening/ReZeroS3-OP1-NCBD1080.ogg"
     },
     {
       "name": "Yakuza Fiance",
@@ -8024,23 +8177,6 @@
       "audioPath": "audio/Opening/Bucchigiri-OP1.ogg"
     },
     {
-      "name": "Dungeon Meshi op2",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2024",
-      "anime": null,
-      "artista": "BUMP OF CHICKEN",
-      "genere": null,
-      "valutazione": "B",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Dungeon Meshi.jpg",
-      "audioPath": "audio/Opening/DungeonMeshi-OP2-NCBD1080.ogg"
-    },
-    {
       "name": "Gods' Games We Play",
       "categories": [
         "Opening"
@@ -8211,23 +8347,6 @@
       "audioPath": "audio/Opening/DungeonMeshi-OP1-NCBD1080.ogg"
     },
     {
-      "name": "Re:Zero s3op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2024",
-      "anime": null,
-      "artista": "KonomiSuzuki",
-      "genere": null,
-      "valutazione": "C+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Re zero.jpg",
-      "audioPath": "audio/Opening/ReZeroS3-OP1-NCBD1080.ogg"
-    },
-    {
       "name": "Mushoku Tensei s2op2",
       "categories": [
         "Opening"
@@ -8262,23 +8381,6 @@
       "audioPath": "audio/Opening/SousouNoFrieren-OP2.ogg"
     },
     {
-      "name": "The Apothecary Diaries op3",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2025",
-      "anime": "ApothecaryDiaries",
-      "artista": null,
-      "genere": null,
-      "valutazione": "B",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Apothecary Diaries.jpg",
-      "audioPath": "audio/Opening/The Apotecary Diares S2-OP1-NCBD1080.ogg"
-    },
-    {
       "name": "The Apothecary Diaries op4",
       "categories": [
         "Opening"
@@ -8294,6 +8396,23 @@
       "ruolo": null,
       "imgPath": "img/Opening/Apothecary Diaries.jpg",
       "audioPath": "audio/Opening/KusuriyaNoHitorigotoS2-OP2-NCBD1080.ogg"
+    },
+    {
+      "name": "The Apothecary Diaries op3",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2025",
+      "anime": "ApothecaryDiaries",
+      "artista": null,
+      "genere": null,
+      "valutazione": "B",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Apothecary Diaries.jpg",
+      "audioPath": "audio/Opening/The Apotecary Diares S2-OP1-NCBD1080.ogg"
     },
     {
       "name": "Fire Force op5",
@@ -8500,6 +8619,23 @@
       "audioPath": "audio/Opening/Medalist-OP1-NCBD1080.ogg"
     },
     {
+      "name": "Digimon Beatbreak",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2025",
+      "anime": null,
+      "artista": "MADKID",
+      "genere": null,
+      "valutazione": "C",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/digimon-beatbreak.webp",
+      "audioPath": "audio/Opening/DigimonBeatbreak-OP1.ogg"
+    },
+    {
       "name": "Tougen Anki op1",
       "categories": [
         "Opening"
@@ -8583,6 +8719,40 @@
       "ruolo": null,
       "imgPath": "img/Opening/Summer Hikaru Died.jpg",
       "audioPath": "audio/Opening/Summer Hikaru-OP1.ogg"
+    },
+    {
+      "name": "SANDA op1",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2025",
+      "anime": null,
+      "artista": "yama",
+      "genere": null,
+      "valutazione": "B",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/SANDA.jpg",
+      "audioPath": "audio/Opening/Sanda-OP1.ogg"
+    },
+    {
+      "name": "Rurouni Kenshin(23) s2op2",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2025",
+      "anime": null,
+      "artista": "yama",
+      "genere": null,
+      "valutazione": "B+",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/RKenshin(23).webp",
+      "audioPath": "audio/Opening/RurouniKenshin2023S2-OP2.ogg"
     },
     {
       "name": "Witch Watch op1",
@@ -8738,23 +8908,6 @@
       "audioPath": "audio/Opening/RuriNoHouseki-OP1.ogg"
     },
     {
-      "name": "SANDA op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2025",
-      "anime": null,
-      "artista": "yama",
-      "genere": null,
-      "valutazione": "B",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/SANDA.jpg",
-      "audioPath": "audio/Opening/Sanda-OP1.ogg"
-    },
-    {
       "name": "The Water Magician",
       "categories": [
         "Opening"
@@ -8891,23 +9044,6 @@
       "audioPath": "audio/Opening/SentaiDaishikkakuS2-OP1.ogg"
     },
     {
-      "name": "Rurouni Kenshin(23) s2op2",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2025",
-      "anime": null,
-      "artista": "yama",
-      "genere": null,
-      "valutazione": "B+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/RKenshin(23).webp",
-      "audioPath": "audio/Opening/RurouniKenshin2023S2-OP2.ogg"
-    },
-    {
       "name": "Sutetsuyo",
       "categories": [
         "Opening"
@@ -8991,23 +9127,6 @@
       "ruolo": null,
       "imgPath": "img/Opening/BanG Dream! Ave Mujica.webp",
       "audioPath": "audio/Opening/BangDreamAveMujica-OP1-NCBD1080.ogg"
-    },
-    {
-      "name": "Digimon Beatbreak",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2025",
-      "anime": null,
-      "artista": "MADKID",
-      "genere": null,
-      "valutazione": "C",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/digimon-beatbreak.webp",
-      "audioPath": "audio/Opening/DigimonBeatbreak-OP1.ogg"
     },
     {
       "name": "May I Ask For One Final Thing?",
@@ -9176,7 +9295,7 @@
       "regione": null,
       "classe": null,
       "ruolo": null,
-      "imgPath": "img/Opening/Ranma ½ (2024).webp",
+      "imgPath": "img/Opening/Ranma_2024.webp",
       "audioPath": "audio/Opening/Ranma2024S2-OP1.ogg"
     },
     {
@@ -9263,6 +9382,40 @@
       "ruolo": null,
       "imgPath": "img/Opening/MH Academia Vigilante.jpg",
       "audioPath": "audio/Opening/BokuNoHeroAcademiaVigilanteS2-OP1.ogg"
+    },
+    {
+      "name": "The Darwin Incident",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2026",
+      "anime": null,
+      "artista": "HIGE DANdism",
+      "genere": null,
+      "valutazione": "C",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Darwin Incident.jpg",
+      "audioPath": "audio/Opening/DarwinJihen-OP1.ogg"
+    },
+    {
+      "name": "Frieren op3",
+      "categories": [
+        "Opening"
+      ],
+      "subcategories": [],
+      "data": "2026",
+      "anime": null,
+      "artista": "Mrs. GREEN APPLE",
+      "genere": null,
+      "valutazione": "C",
+      "regione": null,
+      "classe": null,
+      "ruolo": null,
+      "imgPath": "img/Opening/Frieren.jpg",
+      "audioPath": "audio/Opening/SousouNoFrierenS2-OP1.ogg"
     },
     {
       "name": "Hell Teacher op2",
@@ -9365,40 +9518,6 @@
       "ruolo": null,
       "imgPath": "img/Opening/Oshi no ko.webp",
       "audioPath": "audio/Opening/OshiNoKoS3-OP2.ogg"
-    },
-    {
-      "name": "Frieren op3",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2026",
-      "anime": null,
-      "artista": "Mrs. GREEN APPLE",
-      "genere": null,
-      "valutazione": "C",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Frieren.jpg",
-      "audioPath": "audio/Opening/SousouNoFrierenS2-OP1.ogg"
-    },
-    {
-      "name": "The Darwin Incident",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2026",
-      "anime": null,
-      "artista": "HIGE DANdism",
-      "genere": null,
-      "valutazione": "C",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Darwin Incident.jpg",
-      "audioPath": "audio/Opening/DarwinJihen-OP1.ogg"
     },
     {
       "name": "Noble Reincarnation op1",
@@ -9584,7 +9703,7 @@
       "regione": "Italia",
       "classe": "Gaming",
       "ruolo": null,
-      "imgPath": "img/Streamer/cydonia.jfif",
+      "imgPath": "img/Streamer/cydonia.jpg",
       "audioPath": null
     },
     {
@@ -9652,7 +9771,7 @@
       "regione": "Italia",
       "classe": "Gaming",
       "ruolo": null,
-      "imgPath": "img/Streamer/lollolacustre.jfif",
+      "imgPath": "img/Streamer/lollolacustre.jpg",
       "audioPath": null
     },
     {
@@ -9669,7 +9788,7 @@
       "regione": "Italia",
       "classe": "Gaming",
       "ruolo": null,
-      "imgPath": "img/Streamer/matteohs.jfif",
+      "imgPath": "img/Streamer/matteohs.jpg",
       "audioPath": null
     },
     {
@@ -9720,7 +9839,7 @@
       "regione": "Italia",
       "classe": "Gaming",
       "ruolo": null,
-      "imgPath": "img/Streamer/marzone.jfif",
+      "imgPath": "img/Streamer/marzone.jpg",
       "audioPath": null
     },
     {
@@ -9941,7 +10060,7 @@
       "regione": "Italia",
       "classe": "JustChatting",
       "ruolo": null,
-      "imgPath": "img/Streamer/tumblurr.jfif",
+      "imgPath": "img/Streamer/tumblurr.jpg",
       "audioPath": null
     },
     {
@@ -10383,7 +10502,7 @@
       "regione": "Italia",
       "classe": "JustChatting",
       "ruolo": null,
-      "imgPath": "img/YouTuber/fraffrog.jfif",
+      "imgPath": "img/YouTuber/fraffrog.jpg",
       "audioPath": null
     },
     {
@@ -11080,7 +11199,7 @@
       "regione": "Italia",
       "classe": "Comico",
       "ruolo": null,
-      "imgPath": "img/YouTuber/riccardodose.jfif",
+      "imgPath": "img/YouTuber/riccardodose.jpg",
       "audioPath": null
     },
     {
@@ -11369,7 +11488,7 @@
       "regione": "Italia",
       "classe": "Gaming",
       "ruolo": null,
-      "imgPath": "img/YouTuber/giampytec.jfif",
+      "imgPath": "img/YouTuber/giampytec.jpg",
       "audioPath": null
     },
     {
@@ -11760,7 +11879,7 @@
       "regione": "Italia",
       "classe": "Politica/Attualità",
       "ruolo": null,
-      "imgPath": "img/YouTuber/wesachannel.jfif",
+      "imgPath": "img/YouTuber/wesachannel.jpg",
       "audioPath": null
     },
     {
@@ -12049,7 +12168,7 @@
       "regione": "Italia",
       "classe": "Scienza",
       "ruolo": null,
-      "imgPath": "img/YouTuber/jakidale.jfif",
+      "imgPath": "img/YouTuber/jakidale.jpg",
       "audioPath": null
     },
     {
@@ -12304,7 +12423,7 @@
       "regione": "Italia",
       "classe": "Sport",
       "ruolo": null,
-      "imgPath": "img/YouTuber/pirlasv.jfif",
+      "imgPath": "img/YouTuber/pirlasv.jpg",
       "audioPath": null
     },
     {
@@ -12391,125 +12510,6 @@
       "ruolo": null,
       "imgPath": "img/YouTuber/roberto.jpg",
       "audioPath": null
-    },
-    {
-      "name": "Bastard!! op2",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2023",
-      "anime": null,
-      "artista": "coldrain",
-      "genere": null,
-      "valutazione": "D+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Bastard!!.jpg",
-      "audioPath": "audio/Opening/Bastard2022S2-OP1.ogg"
-    },
-    {
-      "name": "The Irregular at Magic High School s3op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2023",
-      "anime": null,
-      "artista": "LiSA",
-      "genere": null,
-      "valutazione": "D+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/The Irregular at Magic High School.jpg",
-      "audioPath": "audio/Opening/MahoukaKoukouNoRettouseiS3-OP1.ogg"
-    },
-    {
-      "name": "Kengan Ashura s2op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2023",
-      "anime": null,
-      "artista": null,
-      "genere": null,
-      "valutazione": "C+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/kenganahura.jpg",
-      "audioPath": "audio/Opening/KenganAshuraS2-OP1.ogg"
-    },
-    {
-      "name": "Dr. Stone s3op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2023",
-      "anime": null,
-      "artista": null,
-      "genere": null,
-      "valutazione": "D+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Dr. Stone.jpg",
-      "audioPath": "audio/Opening/DrStoneS3-OP1-NCBD1080.ogg"
-    },
-    {
-      "name": "High Card s2op1",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2023",
-      "anime": null,
-      "artista": null,
-      "genere": null,
-      "valutazione": "D+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/highcard.avif",
-      "audioPath": "audio/Opening/HighCardS2-OP1.ogg"
-    },
-    {
-      "name": "Bocchi the Rock!",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2020-2022",
-      "anime": null,
-      "artista": null,
-      "genere": null,
-      "valutazione": "D+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/Bocchi_the_Rock.jpg",
-      "audioPath": "audio/Opening/BocchiTheRock-OP1-NCBD1080.ogg"
-    },
-    {
-      "name": "Saga of Tanya the Evil",
-      "categories": [
-        "Opening"
-      ],
-      "subcategories": [],
-      "data": "2016-2019",
-      "anime": null,
-      "artista": "MYTH & ROID",
-      "genere": null,
-      "valutazione": "D+",
-      "regione": null,
-      "classe": null,
-      "ruolo": null,
-      "imgPath": "img/Opening/tanya.avif",
-      "audioPath": "audio/Opening/YoujoSenki-OP1.ogg"
     }
   ]
 }
