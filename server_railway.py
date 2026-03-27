@@ -109,6 +109,15 @@ class Handler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
         path = self.path.split('?')[0]
 
+        # Redirect dalla radice a rankify.html
+        if path == '/' or path == '':
+            qs = self.path[len(path):]  # preserva eventuale ?admin=...
+            self.send_response(302)
+            self.send_header('Location', '/rankify.html' + qs)
+            self._send_cors()
+            self.end_headers()
+            return
+
         # Endpoint speciale: genera config.js con il flag IS_ADMIN e la PASSWORD.
         # Il token admin viene letto dal cookie "rankify_admin" (impostato dal browser
         # la prima volta che si apre la URL con ?admin=TOKEN).
