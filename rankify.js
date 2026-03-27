@@ -3,14 +3,15 @@
 // ═══════════════════════════════════════════════════════════════════════════════
 
 // ── CATEGORY ICON PATHS ───────────────────────────────────────────────────────
-const OPENING_IMG    = 'img/icon/opening.png';
-const LOL_IMG        = 'img/icon/leagueoflegends.png';
-const TWITCH_IMG     = 'img/icon/streamer.png';
-const YOUTUBE_IMG    = 'img/icon/youtuber.png';
-const SIMPSON_IMG    = 'img/icon/simpson.png';
-const ONEPIECE_IMG   = 'img/icon/onepiece.png';
-const GOT_IMG        = 'img/icon/gameofthrones.png';
-const TWD_IMG        = 'img/icon/thewalkingdead.png';
+const _CDN = `https://res.cloudinary.com/dwuircz8w/image/upload/`;
+const OPENING_IMG    = _CDN + 'img/icon/opening.png';
+const LOL_IMG        = _CDN + 'img/icon/leagueoflegends.png';
+const TWITCH_IMG     = _CDN + 'img/icon/streamer.png';
+const YOUTUBE_IMG    = _CDN + 'img/icon/youtuber.png';
+const SIMPSON_IMG    = _CDN + 'img/icon/simpson.png';
+const ONEPIECE_IMG   = _CDN + 'img/icon/onepiece.png';
+const GOT_IMG        = _CDN + 'img/icon/gameofthrones.png';
+const TWD_IMG        = _CDN + 'img/icon/thewalkingdead.png';
 
 // ── SECURITY HELPERS ─────────────────────────────────────────────────────────
 /**
@@ -163,8 +164,20 @@ function _finishLoad() {
   refreshEditorUI();
 }
 
-function imgSrc(entry)   { return entry.imgPath   || ''; }
-function audioSrc(entry) { return entry.audioPath || ''; }
+const CLOUDINARY_CLOUD = 'dwuircz8w';
+const CLOUDINARY_IMG   = `https://res.cloudinary.com/${CLOUDINARY_CLOUD}/image/upload/`;
+const CLOUDINARY_AUDIO = `https://res.cloudinary.com/${CLOUDINARY_CLOUD}/video/upload/`;
+
+function imgSrc(entry) {
+  if (!entry.imgPath) return '';
+  if (entry.imgPath.startsWith('http')) return entry.imgPath;
+  return CLOUDINARY_IMG + entry.imgPath;
+}
+function audioSrc(entry) {
+  if (!entry.audioPath) return '';
+  if (entry.audioPath.startsWith('http')) return entry.audioPath;
+  return CLOUDINARY_AUDIO + entry.audioPath;
+}
 
 // ── HELPERS ───────────────────────────────────────────────────────────────────
 function compareEntries(a, b) {
